@@ -1,0 +1,26 @@
+<annotation>
+	<folder>img</folder>
+	<filename>Syra.png</filename>
+	<path>C:/Users/Syra_/OneDrive/Área de Trabalho/Vigilís/img/Syra.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>757</width>
+		<height>760</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Syra</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>117</xmin>
+			<ymin>42</ymin>
+			<xmax>654</xmax>
+			<ymax>732</ymax>
+		</bndbox>
+	</object>
+</annotation>
