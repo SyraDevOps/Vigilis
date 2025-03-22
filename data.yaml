@@ -1,5 +1,0 @@
-train: ./train.txt
-val: ./val.txt
-
-nc: 3  # Número de classes
-names: ["classe1", "classe2", "classe3"]  # Substitua pelos nomes reais
