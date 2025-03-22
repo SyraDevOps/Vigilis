@@ -1,0 +1,5 @@
+train: C:\Users\Syra_\OneDrive\Área de Trabalho\Vigilís\train\train.txt
+val: C:\Users\Syra_\OneDrive\Área de Trabalho\Vigilís\val\val.txt
+
+nc: 1  # Número de classes
+names: ["Syra"]  # Substitua pelos nomes reais
