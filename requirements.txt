@@ -1,4 +1,0 @@
-ultralytics
-lxml
-BeautifulSoup4
-requests
