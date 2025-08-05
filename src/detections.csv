@@ -1,0 +1,496 @@
+filename,date,time,observer,location,receiver,antenna,frequencies,frame_range
+SM2501042020.txt,,,Observer,Receiving Location,Receiver,Receiving antenna,2021.0; 2023.0; 2025.0; 2029.0,77.259.775
+SM2501042100.txt,,,Observer,Receiving Location,Receiver,Receiving antenna,44.25; 2102.0; 2103.0; 2105.0; 2109.0,44.25
+SM2501042110.txt,,,Observer,Receiving Location,Receiver,Receiving antenna,2113.0; 2115.0; 2116.0; 2118.0; 2119.0,77.259.775
+SM2501010000.txt,25.01.01,00.00,Observer,Receiving Location,Receiver,Receiving antenna,44.25; 3.0; 5.0; 9.0,44.25
+SM2501010020.txt,25.01.01,00.20,Observer,Receiving Location,Receiver,Receiving antenna,44.25; 23.0; 27.0; 29.0,44.25
+SM2501010030.txt,25.01.01,00.30,Observer,Receiving Location,Receiver,Receiving antenna,33.0; 39.0,77.259.775
+SM2501010040.txt,25.01.01,00.40,Observer,Receiving Location,Receiver,Receiving antenna,44.25; 43.0; 49.0,44.25
+SM2501010050.txt,25.01.01,00.50,Observer,Receiving Location,Receiver,Receiving antenna,44.25; 53.0; 57.0; 59.0,44.25
+SM2501010010.txt,25.01.01,00:10,Observer,Receiving Location,Receiver,Receiving antenna,44.25,44.25
+SM2501010100.txt,25.01.01,01.00,Observer,Receiving Location,Receiver,Receiving antenna,44.25; 103.0; 109.0,44.25
+SM2501010110.txt,25.01.01,01.10,Observer,Receiving Location,Receiver,Receiving antenna,,77.259.775
+SM2501010120.txt,25.01.01,01.20,Observer,Receiving Location,Receiver,Receiving antenna,44.25; 123.0; 129.0; 0.6,44.25
+SM2501010130.txt,25.01.01,01.30,Observer,Receiving Location,Receiver,Receiving antenna,44.25; 131.0; 133.0; 139.0,44.25
+SM2501010140.txt,25.01.01,01.40,Observer,Receiving Location,Receiver,Receiving antenna,143.0; 149.0,77.259.775
+SM2501010150.txt,25.01.01,01.50,Observer,Receiving Location,Receiver,Receiving antenna,153.0; 159.0,77.259.775
+SM2501010200.txt,25.01.01,02.00,Observer,Receiving Location,Receiver,Receiving antenna,44.25; 203.0; 209.0,44.25
+SM2501010210.txt,25.01.01,02.10,Observer,Receiving Location,Receiver,Receiving antenna,44.25,44.25
+SM2501010220.txt,25.01.01,02.20,Observer,Receiving Location,Receiver,Receiving antenna,222.0; 223.0; 229.0,77.259.775
+SM2501010230.txt,25.01.01,02.30,Observer,Receiving Location,Receiver,Receiving antenna,233.0; 235.0; 239.0,77.259.775
+SM2501010240.txt,25.01.01,02.40,Observer,Receiving Location,Receiver,Receiving antenna,44.25; 242.0; 243.0; 245.0; 246.0; 249.0,44.25
+SM2501010250.txt,25.01.01,02.50,Observer,Receiving Location,Receiver,Receiving antenna,251.0; 253.0; 255.0; 257.0; 259.0,77.259.775
+SM2501010300.txt,25.01.01,03.00,Observer,Receiving Location,Receiver,Receiving antenna,44.25; 303.0; 308.0; 309.0,44.25
+SM2501010310.txt,25.01.01,03.10,Observer,Receiving Location,Receiver,Receiving antenna,44.25,44.25
+SM2501010320.txt,25.01.01,03.20,Observer,Receiving Location,Receiver,Receiving antenna,44.25; 322.0; 323.0; 329.0,44.25
+SM2501010330.txt,25.01.01,03.30,Observer,Receiving Location,Receiver,Receiving antenna,335.0; 339.0,77.259.775
+SM2501010340.txt,25.01.01,03.40,Observer,Receiving Location,Receiver,Receiving antenna,44.25,44.25
+SM2501010350.txt,25.01.01,03.50,Observer,Receiving Location,Receiver,Receiving antenna,44.25; 353.0; 359.0,44.25
+SM2501010400.txt,25.01.01,04.00,Observer,Receiving Location,Receiver,Receiving antenna,44.25; 403.0; 409.0,44.25
+SM2501010410.txt,25.01.01,04.10,Observer,Receiving Location,Receiver,Receiving antenna,,77.259.775
+SM2501010420.txt,25.01.01,04.20,Observer,Receiving Location,Receiver,Receiving antenna,44.25; 422.0; 423.0; 429.0,44.25
+SM2501010430.txt,25.01.01,04.30,Observer,Receiving Location,Receiver,Receiving antenna,44.25; 439.0,44.25
+SM2501010440.txt,25.01.01,04.40,Observer,Receiving Location,Receiver,Receiving antenna,44.25; 443.0; 446.0,44.25
+SM2501010450.txt,25.01.01,04.50,Observer,Receiving Location,Receiver,Receiving antenna,44.25; 459.0,44.25
+SM2501010500.txt,25.01.01,05.00,Observer,Receiving Location,Receiver,Receiving antenna,44.25; 503.0; 509.0,44.25
+SM2501010510.txt,25.01.01,05.10,Observer,Receiving Location,Receiver,Receiving antenna,44.25,44.25
+SM2501010520.txt,25.01.01,05.20,Observer,Receiving Location,Receiver,Receiving antenna,44.25; 523.0; 529.0,44.25
+SM2501010530.txt,25.01.01,05.30,Observer,Receiving Location,Receiver,Receiving antenna,44.25; 539.0,44.25
+SM2501010540.txt,25.01.01,05.40,Observer,Receiving Location,Receiver,Receiving antenna,543.0,77.259.775
+SM2501010550.txt,25.01.01,05.50,Observer,Receiving Location,Receiver,Receiving antenna,44.25; 553.0; 555.0; 557.0; 559.0,44.25
+SM2501010600.txt,25.01.01,06.00,Observer,Receiving Location,Receiver,Receiving antenna,44.25; 603.0; 609.0,44.25
+SM2501010610.txt,25.01.01,06.10,Observer,Receiving Location,Receiver,Receiving antenna,44.25,44.25
+SM2501010620.txt,25.01.01,06.20,Observer,Receiving Location,Receiver,Receiving antenna,623.0; 627.0; 629.0,77.259.775
+SM2501010630.txt,25.01.01,06.30,Observer,Receiving Location,Receiver,Receiving antenna,44.25; 633.0; 635.0; 639.0,44.25
+SM2501010640.txt,25.01.01,06.40,Observer,Receiving Location,Receiver,Receiving antenna,44.25; 643.0; 649.0,44.25
+SM2501010650.txt,25.01.01,06.50,Observer,Receiving Location,Receiver,Receiving antenna,44.25; 653.0; 657.0; 659.0,44.25
+SM2501010700.txt,25.01.01,07.00,Observer,Receiving Location,Receiver,Receiving antenna,703.0; 709.0,77.259.775
+SM2501010710.txt,25.01.01,07.10,Observer,Receiving Location,Receiver,Receiving antenna,,77.259.775
+SM2501010720.txt,25.01.01,07.20,Observer,Receiving Location,Receiver,Receiving antenna,723.0; 729.0,77.259.775
+SM2501010730.txt,25.01.01,07.30,Observer,Receiving Location,Receiver,Receiving antenna,733.0; 736.0; 738.0; 739.0,77.259.775
+SM2501010740.txt,25.01.01,07.40,Observer,Receiving Location,Receiver,Receiving antenna,742.0; 743.0; 744.0; 745.0; 746.0; 748.0; 749.0,77.259.775
+SM2501010750.txt,25.01.01,07.50,Observer,Receiving Location,Receiver,Receiving antenna,44.25; 752.0; 753.0; 754.0; 755.0; 756.0; 758.0,44.25
+SM2501010800.txt,25.01.01,08.00,Observer,Receiving Location,Receiver,Receiving antenna,44.25; 802.0; 805.0; 806.0; 808.0; 809.0,44.25
+SM2501010810.txt,25.01.01,08.10,Observer,Receiving Location,Receiver,Receiving antenna,44.25; 813.0; 819.0,44.25
+SM2501010820.txt,25.01.01,08.20,Observer,Receiving Location,Receiver,Receiving antenna,44.25; 822.0; 823.0; 825.0; 826.0; 827.0; 829.0,44.25
+SM2501010830.txt,25.01.01,08.30,Observer,Receiving Location,Receiver,Receiving antenna,44.25; 831.0; 833.0; 835.0; 837.0; 839.0,44.25
+SM2501010840.txt,25.01.01,08.40,Observer,Receiving Location,Receiver,Receiving antenna,44.25; 842.0; 843.0; 845.0; 847.0; 849.0,44.25
+SM2501010850.txt,25.01.01,08.50,Observer,Receiving Location,Receiver,Receiving antenna,44.25; 853.0; 855.0; 857.0; 858.0; 859.0,44.25
+SM2501010900.txt,25.01.01,09.00,Observer,Receiving Location,Receiver,Receiving antenna,44.25; 902.0; 903.0; 905.0; 907.0; 908.0; 909.0,44.25
+SM2501011343.txt,25.01.01,13.43,Observer,Receiving Location,Receiver,Receiving antenna,44.25; 1347.0; 1349.0; 0.9,44.25
+SM2501011350.txt,25.01.01,13.50,Observer,Receiving Location,Receiver,Receiving antenna,44.25; 1352.0; 1353.0; 1354.0; 1359.0,44.25
+SM2501011406.txt,25.01.01,14.06,Observer,Receiving Location,Receiver,Receiving antenna,44.25; 1408.0; 409.0,44.25
+SM2501011410.txt,25.01.01,14.10,Observer,Receiving Location,Receiver,Receiving antenna,44.25; 1412.0; 1413.0,44.25
+SM2501011420.txt,25.01.01,14.20,Observer,Receiving Location,Receiver,Receiving antenna,44.25; 1422.0; 1423.0; 1474.0; 1425.0; 1427.0; 1428.0; 1429.0; 1430.0,44.25
+SM2501011430.txt,25.01.01,14.30,Observer,Receiving Location,Receiver,Receiving antenna,44.25; 1432.0; 1433.0; 1435.0; 1437.0; 4382.0,44.25
+SM2501011440.txt,25.01.01,14.40,Observer,Receiving Location,Receiver,Receiving antenna,1442.0; 14447.0; 1444.0; 1445.0; 448.0; 1449.0,77.259.775
+SM2501011450.txt,25.01.01,14.50,Observer,Receiving Location,Receiver,Receiving antenna,44.25; 1452.0; 1453.0; 1404.0; 1455.0; 1456.0; 1457.0; 1458.0; 1459.0,44.25
+SM2501011500.txt,25.01.01,15.00,Observer,Receiving Location,Receiver,Receiving antenna,44.25; 1502.0; 503.0; 15042.0; 1507.0; 508.0; 1509.0; 15102.0,44.25
+SM2501011510.txt,25.01.01,15.10,Observer,Receiving Location,Receiver,Receiving antenna,44.25; 1512.0; 1513.0; 1514.0; 1515.0; 1517.0; 1519.0; 520.0,44.25
+SM2501011520.txt,25.01.01,15.20,Observer,Receiving Location,Receiver,Receiving antenna,1522.0; 1523.0; 1525.0; 1526.0; 1527.0; 1528.0; 1529.0; 15302.0,77.259.775
+SM2501011530.txt,25.01.01,15.30,Observer,Receiving Location,Receiver,Receiving antenna,44.25; 1532.0; 1533.0; 1534.0; 1535.0; 1537.0; 1538.0; 1539.0; 15402.0,44.25
+SM2501011540.txt,25.01.01,15.40,Observer,Receiving Location,Receiver,Receiving antenna,44.25; 1541.0; 1542.0; 1543.0; 1544.0; 1545.0; 1546.0; 1547.0; 1548.0; 1549.0,44.25
+SM2501011550.txt,25.01.01,15.50,Observer,Receiving Location,Receiver,Receiving antenna,44.25; 1552.0; 1553.0; 15592.0,44.25
+SM2501011600.txt,25.01.01,16.00,Observer,Receiving Location,Receiver,Receiving antenna,44.25; 1602.0; 1603.0; 1604.0; 1609.0; 0.9,44.25
+SM2501011610.txt,25.01.01,16.10,Observer,Receiving Location,Receiver,Receiving antenna,44.25; 126.0; 1612.0; 1615.0; 1616.0; 1619.0; 0.9,44.25
+SM2501011620.txt,25.01.01,16.20,Observer,Receiving Location,Receiver,Receiving antenna,44.25; 119.0; 1673.0; 1625.0; 628.0; 160.0; 1630.0,44.25
+SM2501011630.txt,25.01.01,16.30,Observer,Receiving Location,Receiver,Receiving antenna,44.25; 123.0; 631.0; 633.0; 638.0; 1640.0,44.25
+SM2501011640.txt,25.01.01,16.40,Observer,Receiving Location,Receiver,Receiving antenna,44.25; 118.0; 1642.0; 1643.0; 645.0; 1646.0; 1647.0; 1648.0; 1649.0,44.25
+SM2501011746.txt,25.01.01,17.46,Observer,Receiving Location,Receiver,Receiving antenna,44.25; 1747.0; 1748.0; 1749.0,44.25
+SM2501011750.txt,25.01.01,17.50,Observer,Receiving Location,Receiver,Receiving antenna,44.25; 1752.0; 1753.0; 17542.0; 17552.0; 1757.0; 1758.0; 1759.0,44.25
+SM2501011800.txt,25.01.01,18.00,Observer,Receiving Location,Receiver,Receiving antenna,44.25; 801.0; 1802.0; 1803.0; 18052.0; 1807.0; 1809.0,44.25
+SM2501011810.txt,25.01.01,18.10,Observer,Receiving Location,Receiver,Receiving antenna,44.25; 1812.0; 1813.0; 1814.0; 1815.0; 1816.0; 1817.0; 1819.0,44.25
+SM2501011820.txt,25.01.01,18.20,Observer,Receiving Location,Receiver,Receiving antenna,44.25; 1821.0; 1822.0; 18235.0; 1824.0; 1825.0; 1826.0; 1827.0; 1828.0; 18297.0,44.25
+SM2501011830.txt,25.01.01,18.30,Observer,Receiving Location,Receiver,Receiving antenna,44.25; 1832.0; 1833.0; 1834.0; 1835.0; 18373.0; 1838.0; 1839.0,44.25
+SM2501011840.txt,25.01.01,18.40,Observer,Receiving Location,Receiver,Receiving antenna,44.25; 1842.0; 1843.0; 1844.0; 1846.0; 1847.0; 1848.0; 1849.0,44.25
+SM2501011850.txt,25.01.01,18.50,Observer,Receiving Location,Receiver,Receiving antenna,44.25; 1852.0; 1853.0; 1854.0; 1855.0; 1856.0; 1858.0; 1859.0,44.25
+SM2501011900.txt,25.01.01,19.00,Observer,Receiving Location,Receiver,Receiving antenna,44.25; 1902.0; 1903.0; 1905.0; 1907.0; 1908.0; 1909.0,44.25
+SM2501011910.txt,25.01.01,19.10,Observer,Receiving Location,Receiver,Receiving antenna,44.25; 1912.0; 1913.0; 19145.0; 1915.0; 1917.0; 1919.0; 19202.0,44.25
+SM2501011920.txt,25.01.01,19.20,Observer,Receiving Location,Receiver,Receiving antenna,44.25; 1922.0; 1923.0; 19242.0; 1925.0; 1926.0; 1928.0; 1929.0; 19302.0,44.25
+SM2501011930.txt,25.01.01,19.30,Observer,Receiving Location,Receiver,Receiving antenna,1932.0; 1933.0; 1939.0,77.259.775
+SM2501011940.txt,25.01.01,19.40,Observer,Receiving Location,Receiver,Receiving antenna,1942.0; 1943.0; 1949.0,77.259.775
+SM2501011950.txt,25.01.01,19.50,Observer,Receiving Location,Receiver,Receiving antenna,1952.0; 1955.0; 1959.0,77.259.775
+SM2501012000.txt,25.01.01,20.00,Observer,Receiving Location,Receiver,Receiving antenna,44.25; 2003.0; 2009.0,44.25
+SM2501012010.txt,25.01.01,20.10,Observer,Receiving Location,Receiver,Receiving antenna,,77.259.775
+SM2501012020.txt,25.01.01,20.20,Observer,Receiving Location,Receiver,Receiving antenna,44.25; 2023.0; 2029.0,44.25
+SM2501012030.txt,25.01.01,20.30,Observer,Receiving Location,Receiver,Receiving antenna,2031.0; 2033.0; 2039.0,77.259.775
+SM2501012040.txt,25.01.01,20.40,Observer,Receiving Location,Receiver,Receiving antenna,44.25; 2043.0; 2047.0; 2049.0,44.25
+SM2501012045.txt,25.01.01,20.45,Observer,Receiving Location,Receiver,Receiving antenna,2047.0; 2048.0; 2049.0; 2050.0,77.259.775
+SM2501012050.txt,25.01.01,20.50,Observer,Receiving Location,Receiver,Receiving antenna,44.25; 2057.0; 2059.0,44.25
+SM2501012100.txt,25.01.01,21.00,Observer,Receiving Location,Receiver,Receiving antenna,44.25; 2109.0,44.25
+SM2501012110.txt,25.01.01,21.10,Observer,Receiving Location,Receiver,Receiving antenna,44.25,44.25
+SM2501012120.txt,25.01.01,21.20,Observer,Receiving Location,Receiver,Receiving antenna,,77.259.775
+SM2501012130.txt,25.01.01,21.30,Observer,Receiving Location,Receiver,Receiving antenna,44.25; 2135.0; 2139.0,44.25
+SM2501012140.txt,25.01.01,21.40,Observer,Receiving Location,Receiver,Receiving antenna,2149.0,77.259.775
+SM2501012150.txt,25.01.01,21.50,Observer,Receiving Location,Receiver,Receiving antenna,2157.0,77.259.775
+SM2501012200.txt,25.01.01,22.00,Observer,Receiving Location,Receiver,Receiving antenna,2203.0; 2209.0,77.259.775
+SM2501012210.txt,25.01.01,22.10,Observer,Receiving Location,Receiver,Receiving antenna,2212.0,77.259.775
+SM2501012220.txt,25.01.01,22.20,Observer,Receiving Location,Receiver,Receiving antenna,2222.0; 2226.0; 2229.0,77.259.775
+SM2501012230.txt,25.01.01,22.30,Observer,Receiving Location,Receiver,Receiving antenna,2235.0; 2239.0,77.259.775
+SM2501012240.txt,25.01.01,22.40,Observer,Receiving Location,Receiver,Receiving antenna,,77.259.775
+SM2501012250.txt,25.01.01,22.50,Observer,Receiving Location,Receiver,Receiving antenna,44.25; 2251.0; 2257.0; 2259.0,44.25
+SM2501012300.txt,25.01.01,23.00,Observer,Receiving Location,Receiver,Receiving antenna,44.25; 2303.0; 2309.0,44.25
+SM2501012310.txt,25.01.01,23.10,Observer,Receiving Location,Receiver,Receiving antenna,,77.259.775
+SM2501012320.txt,25.01.01,23.20,Observer,Receiving Location,Receiver,Receiving antenna,44.25; 2323.0; 2325.0; 2329.0,44.25
+SM2501012330.txt,25.01.01,23.30,Observer,Receiving Location,Receiver,Receiving antenna,2333.0; 2335.0; 2339.0,77.259.775
+SM2501012340.txt,25.01.01,23.40,Observer,Receiving Location,Receiver,Receiving antenna,44.25,44.25
+SM2501012350.txt,25.01.01,23.50,Observer,Receiving Location,Receiver,Receiving antenna,44.25; 2352.0; 2353.0; 2354.0; 2355.0; 2358.0; 2359.0,44.25
+SM2501020000.txt,25.01.02,00.00,Observer,Receiving Location,Receiver,Receiving antenna,44.25; 2.0; 3.0; 4.0; 5.0; 6.0; 8.0; 9.0,44.25
+SM2501020020.txt,25.01.02,00.20,Observer,Receiving Location,Receiver,Receiving antenna,44.25; 22.0; 23.0; 26.0; 28.0; 29.0,44.25
+SM2501020030.txt,25.01.02,00.30,Observer,Receiving Location,Receiver,Receiving antenna,44.25; 32.0; 33.0; 35.0; 36.0; 38.0; 39.0,44.25
+SM2501020040.txt,25.01.02,00.40,Observer,Receiving Location,Receiver,Receiving antenna,44.25; 42.0; 43.0; 44.0; 48.0; 49.0,44.25
+SM2501020050.txt,25.01.02,00.50,Observer,Receiving Location,Receiver,Receiving antenna,44.25; 52.0; 56.0; 58.0; 59.0; 0.6,44.25
+SM2501020010.txt,25.01.02,00:10,Observer,Receiving Location,Receiver,Receiving antenna,44.25; 12.0; 13.0; 14.0; 15.0; 16.0; 18.0; 19.0,44.25
+SM2501020100.txt,25.01.02,01.00,Observer,Receiving Location,Receiver,Receiving antenna,44.25; 102.0; 103.0; 105.0; 106.0; 108.0; 109.0,44.25
+SM2501020110.txt,25.01.02,01.10,Observer,Receiving Location,Receiver,Receiving antenna,44.25; 115.0; 116.0; 118.0; 119.0,44.25
+SM2501020120.txt,25.01.02,01.20,Observer,Receiving Location,Receiver,Receiving antenna,122.0; 123.0; 126.0; 127.0; 128.0; 129.0,77.259.775
+SM2501020130.txt,25.01.02,01.30,Observer,Receiving Location,Receiver,Receiving antenna,44.25; 132.0; 133.0; 135.0; 136.0; 137.0; 138.0; 139.0,44.25
+SM2501020140.txt,25.01.02,01.40,Observer,Receiving Location,Receiver,Receiving antenna,44.25; 142.0; 143.0; 144.0; 146.0; 148.0; 149.0,44.25
+SM2501020150.txt,25.01.02,01.50,Observer,Receiving Location,Receiver,Receiving antenna,44.25; 152.0; 153.0; 155.0; 156.0; 158.0; 159.0,44.25
+SM2501020200.txt,25.01.02,02.00,Observer,Receiving Location,Receiver,Receiving antenna,44.25; 202.0; 203.0; 204.0; 206.0; 208.0; 209.0,44.25
+SM2501020210.txt,25.01.02,02.10,Observer,Receiving Location,Receiver,Receiving antenna,44.25; 212.0; 213.0; 215.0; 216.0; 218.0; 219.0,44.25
+SM2501020220.txt,25.01.02,02.20,Observer,Receiving Location,Receiver,Receiving antenna,222.0; 223.0; 224.0; 225.0; 226.0; 227.0; 228.0; 229.0,77.259.775
+SM2501020230.txt,25.01.02,02.30,Observer,Receiving Location,Receiver,Receiving antenna,232.0; 233.0; 235.0; 236.0; 237.0; 238.0; 239.0,77.259.775
+SM2501020240.txt,25.01.02,02.40,Observer,Receiving Location,Receiver,Receiving antenna,242.0; 243.0; 244.0; 248.0; 249.0,77.259.775
+SM2501020250.txt,25.01.02,02.50,Observer,Receiving Location,Receiver,Receiving antenna,44.25; 252.0; 253.0; 255.0; 256.0; 258.0; 259.0,44.25
+SM2501020300.txt,25.01.02,03.00,Observer,Receiving Location,Receiver,Receiving antenna,44.25; 302.0; 303.0; 304.0; 305.0; 306.0; 308.0; 309.0,44.25
+SM2501020310.txt,25.01.02,03.10,Observer,Receiving Location,Receiver,Receiving antenna,312.0; 313.0; 315.0; 316.0; 318.0; 319.0,77.259.775
+SM2501020320.txt,25.01.02,03.20,Observer,Receiving Location,Receiver,Receiving antenna,44.25; 322.0; 323.0; 325.0; 326.0; 327.0; 328.0; 329.0,44.25
+SM2501020330.txt,25.01.02,03.30,Observer,Receiving Location,Receiver,Receiving antenna,44.25; 332.0; 333.0; 335.0; 336.0; 337.0; 338.0; 339.0,44.25
+SM2501020340.txt,25.01.02,03.40,Observer,Receiving Location,Receiver,Receiving antenna,342.0; 343.0; 344.0; 345.0; 346.0; 348.0; 349.0; 0.6,77.259.775
+SM2501020350.txt,25.01.02,03.50,Observer,Receiving Location,Receiver,Receiving antenna,44.25; 352.0; 353.0; 355.0; 356.0; 358.0; 359.0,44.25
+SM2501020400.txt,25.01.02,04.00,Observer,Receiving Location,Receiver,Receiving antenna,44.25; 402.0; 403.0; 406.0; 408.0; 409.0,44.25
+SM2501020410.txt,25.01.02,04.10,Observer,Receiving Location,Receiver,Receiving antenna,412.0; 413.0; 415.0; 416.0; 418.0; 419.0,77.259.775
+SM2501020420.txt,25.01.02,04.20,Observer,Receiving Location,Receiver,Receiving antenna,44.25; 422.0; 423.0; 425.0; 426.0; 428.0; 429.0,44.25
+SM2501020430.txt,25.01.02,04.30,Observer,Receiving Location,Receiver,Receiving antenna,44.25; 432.0; 433.0; 435.0; 436.0; 438.0; 439.0,44.25
+SM2501020440.txt,25.01.02,04.40,Observer,Receiving Location,Receiver,Receiving antenna,44.25; 442.0; 443.0; 446.0; 448.0; 449.0,44.25
+SM2501020450.txt,25.01.02,04.50,Observer,Receiving Location,Receiver,Receiving antenna,44.25; 452.0; 453.0; 455.0; 456.0; 457.0; 458.0; 459.0,44.25
+SM2501020500.txt,25.01.02,05.00,Observer,Receiving Location,Receiver,Receiving antenna,44.25; 502.0; 503.0; 506.0; 508.0; 509.0,44.25
+SM2501020510.txt,25.01.02,05.10,Observer,Receiving Location,Receiver,Receiving antenna,44.25; 512.0; 515.0; 518.0; 519.0,44.25
+SM2501020520.txt,25.01.02,05.20,Observer,Receiving Location,Receiver,Receiving antenna,522.0; 523.0; 525.0; 526.0; 527.0; 528.0; 529.0,77.259.775
+SM2501020530.txt,25.01.02,05.30,Observer,Receiving Location,Receiver,Receiving antenna,44.25; 532.0; 533.0; 535.0; 536.0; 537.0; 538.0; 539.0,44.25
+SM2501020540.txt,25.01.02,05.40,Observer,Receiving Location,Receiver,Receiving antenna,44.25; 542.0; 543.0; 544.0; 546.0; 548.0; 549.0,44.25
+SM2501020550.txt,25.01.02,05.50,Observer,Receiving Location,Receiver,Receiving antenna,44.25; 552.0; 553.0; 554.0; 558.0; 559.0; 0.6,44.25
+SM2501020600.txt,25.01.02,06.00,Observer,Receiving Location,Receiver,Receiving antenna,44.25; 602.0; 604.0; 606.0; 608.0,44.25
+SM2501020610.txt,25.01.02,06.10,Observer,Receiving Location,Receiver,Receiving antenna,44.25; 612.0; 615.0; 616.0,44.25
+SM2501020620.txt,25.01.02,06.20,Observer,Receiving Location,Receiver,Receiving antenna,44.25; 625.0; 627.0; 629.0; 630.0,44.25
+SM2501020630.txt,25.01.02,06.30,Observer,Receiving Location,Receiver,Receiving antenna,44.25; 632.0; 633.0; 634.0; 635.0; 636.0; 637.0; 638.0; 639.0,44.25
+SM2501020640.txt,25.01.02,06.40,Observer,Receiving Location,Receiver,Receiving antenna,44.25; 642.0; 643.0; 644.0; 646.0; 648.0; 649.0,44.25
+SM2501020650.txt,25.01.02,06.50,Observer,Receiving Location,Receiver,Receiving antenna,44.25; 652.0; 653.0; 656.0; 658.0,44.25
+SM2501020700.txt,25.01.02,07.00,Observer,Receiving Location,Receiver,Receiving antenna,44.25; 702.0; 704.0; 705.0; 706.0; 708.0,44.25
+SM2501020710.txt,25.01.02,07.10,Observer,Receiving Location,Receiver,Receiving antenna,44.25; 711.0; 712.0; 715.0; 716.0,44.25
+SM2501020720.txt,25.01.02,07.20,Observer,Receiving Location,Receiver,Receiving antenna,44.25; 722.0; 723.0; 724.0; 725.0; 727.0; 728.0; 729.0,44.25
+SM2501020730.txt,25.01.02,07.30,Observer,Receiving Location,Receiver,Receiving antenna,44.25; 731.0; 732.0; 733.0; 734.0; 735.0; 736.0; 737.0; 739.0,44.25
+SM2501020740.txt,25.01.02,07.40,Observer,Receiving Location,Receiver,Receiving antenna,44.25; 741.0; 742.0; 743.0; 744.0; 745.0; 747.0; 748.0; 749.0,44.25
+SM2501020750.txt,25.01.02,07.50,Observer,Receiving Location,Receiver,Receiving antenna,751.0; 753.0; 757.0; 759.0,77.259.775
+SM2501020800.txt,25.01.02,08.00,Observer,Receiving Location,Receiver,Receiving antenna,44.25; 8033.0; 805.0; 806.0; 807.0; 809.0,44.25
+SM2501020810.txt,25.01.02,08.10,Observer,Receiving Location,Receiver,Receiving antenna,44.25; 813.0; 815.0; 817.0; 818.0; 819.0,44.25
+SM2501020820.txt,25.01.02,08.20,Observer,Receiving Location,Receiver,Receiving antenna,44.25; 821.0; 822.0; 8235.0; 825.0; 826.0; 827.0; 829.0,44.25
+SM2501020830.txt,25.01.02,08.30,Observer,Receiving Location,Receiver,Receiving antenna,44.25; 833.0; 834.0; 835.0; 836.0; 837.0; 839.0,44.25
+SM2501020840.txt,25.01.02,08.40,Observer,Receiving Location,Receiver,Receiving antenna,44.25; 841.0; 842.0; 843.0; 845.0; 846.0; 847.0; 848.0; 849.0,44.25
+SM2501020850.txt,25.01.02,08.50,Observer,Receiving Location,Receiver,Receiving antenna,44.25; 851.0; 853.0; 855.0; 857.0; 858.0; 859.0,44.25
+SM2501020900.txt,25.01.02,09.00,Observer,Receiving Location,Receiver,Receiving antenna,44.25; 902.0; 903.0; 9052.0; 906.0; 907.0; 908.0; 909.0,44.25
+SM2501020910.txt,25.01.02,09.10,Observer,Receiving Location,Receiver,Receiving antenna,44.25; 912.0; 913.0; 914.0; 917.0; 919.0,44.25
+SM2501020920.txt,25.01.02,09.20,Observer,Receiving Location,Receiver,Receiving antenna,44.25; 922.0; 923.0; 925.0; 926.0; 927.0; 928.0,44.25
+SM2501020930.txt,25.01.02,09.30,Observer,Receiving Location,Receiver,Receiving antenna,44.25; 931.0; 932.0; 933.0; 935.0; 936.0,44.25
+SM2501020940.txt,25.01.02,09.40,Observer,Receiving Location,Receiver,Receiving antenna,44.25; 94.0; 942.0; 947.0; 948.0; 949.0,44.25
+SM2501020950.txt,25.01.02,09.50,Observer,Receiving Location,Receiver,Receiving antenna,44.25; 952.0; 953.0; 954.0; 955.0; 959.0,44.25
+SM2501021000.txt,25.01.02,10.00,Observer,Receiving Location,Receiver,Receiving antenna,44.25; 1002.0; 1004.0; 1006.0; 1008.0; 9.0; 1010.0,44.25
+SM2501021010.txt,25.01.02,10.10,Observer,Receiving Location,Receiver,Receiving antenna,44.25; 1011.0; 1012.0; 1014.0; 1015.0; 1017.0; 1018.0; 1019.0; 1020.0,44.25
+SM2501021020.txt,25.01.02,10.20,Observer,Receiving Location,Receiver,Receiving antenna,44.25; 1022.0; 1073.0; 1026.0; 1029.0; 1030.0,44.25
+SM2501021030.txt,25.01.02,10.30,Observer,Receiving Location,Receiver,Receiving antenna,44.25; 1032.0; 1034.0; 1035.0; 1036.0; 1037.0; 1039.0,44.25
+SM2501021040.txt,25.01.02,10.40,Observer,Receiving Location,Receiver,Receiving antenna,44.25; 1042.0; 1043.0; 1044.0; 1048.0,44.25
+SM2501021050.txt,25.01.02,10.50,Observer,Receiving Location,Receiver,Receiving antenna,44.25; 1052.0; 1053.0; 1054.0; 1058.0; 1059.0,44.25
+SM2501021100.txt,25.01.02,11.00,Observer,Receiving Location,Receiver,Receiving antenna,44.25; 1102.0; 1103.0; 1104.0; 1108.0,44.25
+SM2501021110.txt,25.01.02,11.10,Observer,Receiving Location,Receiver,Receiving antenna,44.25; 1115.0; 1118.0; 1119.0,44.25
+SM2501021120.txt,25.01.02,11.20,Observer,Receiving Location,Receiver,Receiving antenna,44.25; 1122.0; 1123.0; 1124.0; 1128.0,44.25
+SM2501021130.txt,25.01.02,11.30,Observer,Receiving Location,Receiver,Receiving antenna,44.25; 1134.0; 1135.0; 1136.0; 1138.0,44.25
+SM2501021140.txt,25.01.02,11.40,Observer,Receiving Location,Receiver,Receiving antenna,1142.0; 1143.0; 1144.0; 1145.0; 1147.0; 1148.0,77.259.775
+SM2501021150.txt,25.01.02,11.50,Observer,Receiving Location,Receiver,Receiving antenna,44.25; 1153.0; 1155.0; 1159.0,44.25
+SM2501021200.txt,25.01.02,12.00,Observer,Receiving Location,Receiver,Receiving antenna,44.25; 101.0; 208.0,44.25
+SM2501021210.txt,25.01.02,12.10,Observer,Receiving Location,Receiver,Receiving antenna,44.25; 1219.0,44.25
+SM2501021220.txt,25.01.02,12.20,Observer,Receiving Location,Receiver,Receiving antenna,1223.0; 473.0,77.259.775
+SM2501021230.txt,25.01.02,12.30,Observer,Receiving Location,Receiver,Receiving antenna,44.25; 1232.0; 1233.0,44.25
+SM2501021240.txt,25.01.02,12.40,Observer,Receiving Location,Receiver,Receiving antenna,44.25; 1241.0; 1243.0; 1244.0; 1249.0,44.25
+SM2501021250.txt,25.01.02,12.50,Observer,Receiving Location,Receiver,Receiving antenna,44.25; 1253.0; 1259.0,44.25
+SM2501021300.txt,25.01.02,13.00,Observer,Receiving Location,Receiver,Receiving antenna,44.25; 1301.0; 1304.0; 1305.0; 1309.0,44.25
+SM2501021310.txt,25.01.02,13.10,Observer,Receiving Location,Receiver,Receiving antenna,44.25; 1312.0; 1314.0; 1315.0; 1319.0,44.25
+SM2501021320.txt,25.01.02,13.20,Observer,Receiving Location,Receiver,Receiving antenna,44.25; 13215.0; 1322.0; 1323.0; 1325.0; 1329.0,44.25
+SM2501021330.txt,25.01.02,13.30,Observer,Receiving Location,Receiver,Receiving antenna,44.25; 1332.0; 1333.0; 1334.0; 1335.0; 1336.0; 1337.0; 1339.0,44.25
+SM2501021340.txt,25.01.02,13.40,Observer,Receiving Location,Receiver,Receiving antenna,44.25; 1341.0; 1342.0; 1343.0; 1344.0; 1345.0; 1346.0; 1347.0; 1349.0,44.25
+SM2501021350.txt,25.01.02,13.50,Observer,Receiving Location,Receiver,Receiving antenna,1352.0; 1353.0; 1354.0; 1355.0; 1357.0; 1359.0,77.259.775
+SM2501021400.txt,25.01.02,14.00,Observer,Receiving Location,Receiver,Receiving antenna,44.25; 1402.0; 1403.0; 1404.0; 1405.0; 14065.0; 407.0; 1408.0; 1409.0,44.25
+SM2501021410.txt,25.01.02,14.10,Observer,Receiving Location,Receiver,Receiving antenna,44.25; 1412.0; 1413.0; 1419.0,44.25
+SM2501021420.txt,25.01.02,14.20,Observer,Receiving Location,Receiver,Receiving antenna,44.25; 1421.0; 1422.0; 1423.0; 1426.0; 1427.0; 1428.0; 1429.0,44.25
+SM2501021430.txt,25.01.02,14.30,Observer,Receiving Location,Receiver,Receiving antenna,44.25; 1432.0; 1433.0; 1434.0; 1435.0; 1436.0; 1437.0; 1438.0; 1439.0,44.25
+SM2501021440.txt,25.01.02,14.40,Observer,Receiving Location,Receiver,Receiving antenna,44.25; 1442.0; 1443.0; 1442.0; 1445.0; 1446.0; 1447.0; 1448.0; 1449.0,44.25
+SM2501021450.txt,25.01.02,14.50,Observer,Receiving Location,Receiver,Receiving antenna,44.25; 1453.0; 14542.0; 1455.0; 1456.0; 1457.0; 1458.0; 1459.0,44.25
+SM2501021500.txt,25.01.02,15.00,Observer,Receiving Location,Receiver,Receiving antenna,44.25; 15012.0; 1502.0; 1503.0; 15042.0; 1505.0; 1507.0; 1508.0; 1509.0,44.25
+SM2501021510.txt,25.01.02,15.10,Observer,Receiving Location,Receiver,Receiving antenna,44.25; 15112.0; 1512.0; 1513.0; 15143.0; 1515.0,44.25
+SM2501021520.txt,25.01.02,15.20,Observer,Receiving Location,Receiver,Receiving antenna,44.25; 1521.0; 1522.0; 1523.0; 1525.0; 1526.0; 1527.0; 1528.0; 1529.0,44.25
+SM2501021530.txt,25.01.02,15.30,Observer,Receiving Location,Receiver,Receiving antenna,44.25; 1532.0; 1533.0; 1534.0; 1537.0; 1538.0; 1539.0,44.25
+SM2501021540.txt,25.01.02,15.40,Observer,Receiving Location,Receiver,Receiving antenna,44.25; 15412.0; 1542.0; 1543.0; 1545.0; 1546.0; 1547.0; 1548.0; 15493.0,44.25
+SM2501030030.txt,25.01.03,00.,Observer,Receiving Location,Receiver,Receiving antenna,44.25; 39.0,44.25
+SM2501030008.txt,25.01.03,00.08,Observer,Receiving Location,Receiver,Receiving antenna,44.25; 9.0,44.25
+SM2501030020.txt,25.01.03,00.20,Observer,Receiving Location,Receiver,Receiving antenna,44.25; 23.0; 29.0,44.25
+SM2501030040.txt,25.01.03,00.40,Observer,Receiving Location,Receiver,Receiving antenna,44.25; 41.0; 47.0; 49.0,44.25
+SM2501030050.txt,25.01.03,00.50,Observer,Receiving Location,Receiver,Receiving antenna,44.25; 59.0,44.25
+SM2501030010.txt,25.01.03,00:10,Observer,Receiving Location,Receiver,Receiving antenna,44.25,44.25
+SM2501030100.txt,25.01.03,01.00,Observer,Receiving Location,Receiver,Receiving antenna,44.25; 109.0,44.25
+SM2501030110.txt,25.01.03,01.10,Observer,Receiving Location,Receiver,Receiving antenna,,77.259.775
+SM2501030120.txt,25.01.03,01.20,Observer,Receiving Location,Receiver,Receiving antenna,44.25; 129.0,44.25
+SM2501030130.txt,25.01.03,01.30,Observer,Receiving Location,Receiver,Receiving antenna,44.25,44.25
+SM2501030140.txt,25.01.03,01.40,Observer,Receiving Location,Receiver,Receiving antenna,,77.259.775
+SM2501030150.txt,25.01.03,01.50,Observer,Receiving Location,Receiver,Receiving antenna,159.0,77.259.775
+SM2501030200.txt,25.01.03,02.00,Observer,Receiving Location,Receiver,Receiving antenna,209.0,77.259.775
+SM2501030210.txt,25.01.03,02.10,Observer,Receiving Location,Receiver,Receiving antenna,44.25,44.25
+SM2501030220.txt,25.01.03,02.20,Observer,Receiving Location,Receiver,Receiving antenna,222.0,77.259.775
+SM2501030230.txt,25.01.03,02.30,Observer,Receiving Location,Receiver,Receiving antenna,233.0; 239.0,77.259.775
+SM2501030240.txt,25.01.03,02.40,Observer,Receiving Location,Receiver,Receiving antenna,44.25; 249.0,44.25
+SM2501030250.txt,25.01.03,02.50,Observer,Receiving Location,Receiver,Receiving antenna,44.25; 257.0; 259.0,44.25
+SM2501030300.txt,25.01.03,03.00,Observer,Receiving Location,Receiver,Receiving antenna,303.0; 309.0,77.259.775
+SM2501030310.txt,25.01.03,03.10,Observer,Receiving Location,Receiver,Receiving antenna,,77.259.775
+SM2501030320.txt,25.01.03,03.20,Observer,Receiving Location,Receiver,Receiving antenna,44.25; 329.0,44.25
+SM2501030330.txt,25.01.03,03.30,Observer,Receiving Location,Receiver,Receiving antenna,331.0; 339.0; 0.6,77.259.775
+SM2501030340.txt,25.01.03,03.40,Observer,Receiving Location,Receiver,Receiving antenna,44.25,44.25
+SM2501030350.txt,25.01.03,03.50,Observer,Receiving Location,Receiver,Receiving antenna,359.0,77.259.775
+SM2501030400.txt,25.01.03,04.00,Observer,Receiving Location,Receiver,Receiving antenna,44.25; 409.0,44.25
+SM2501030410.txt,25.01.03,04.10,Observer,Receiving Location,Receiver,Receiving antenna,44.25,44.25
+SM2501030420.txt,25.01.03,04.20,Observer,Receiving Location,Receiver,Receiving antenna,44.25; 423.0; 429.0,44.25
+SM2501030430.txt,25.01.03,04.30,Observer,Receiving Location,Receiver,Receiving antenna,44.25; 433.0; 439.0,44.25
+SM2501030440.txt,25.01.03,04.40,Observer,Receiving Location,Receiver,Receiving antenna,44.25,44.25
+SM2501030450.txt,25.01.03,04.50,Observer,Receiving Location,Receiver,Receiving antenna,44.25; 459.0,44.25
+SM2501030500.txt,25.01.03,05.00,Observer,Receiving Location,Receiver,Receiving antenna,44.25; 509.0; 0.7,44.25
+SM2501030510.txt,25.01.03,05.10,Observer,Receiving Location,Receiver,Receiving antenna,44.25; 0.6,44.25
+SM2501030520.txt,25.01.03,05.20,Observer,Receiving Location,Receiver,Receiving antenna,44.25; 529.0,44.25
+SM2501030530.txt,25.01.03,05.30,Observer,Receiving Location,Receiver,Receiving antenna,44.25; 539.0,44.25
+SM2501030540.txt,25.01.03,05.40,Observer,Receiving Location,Receiver,Receiving antenna,44.25,44.25
+SM2501030550.txt,25.01.03,05.50,Observer,Receiving Location,Receiver,Receiving antenna,44.25; 553.0; 557.0; 559.0,44.25
+SM2501030600.txt,25.01.03,06.00,Observer,Receiving Location,Receiver,Receiving antenna,44.25; 603.0; 605.0; 609.0,44.25
+SM2501030610.txt,25.01.03,06.10,Observer,Receiving Location,Receiver,Receiving antenna,44.25; 613.0,44.25
+SM2501030620.txt,25.01.03,06.20,Observer,Receiving Location,Receiver,Receiving antenna,44.25; 623.0; 625.0; 627.0; 628.0; 629.0,44.25
+SM2501030630.txt,25.01.03,06.30,Observer,Receiving Location,Receiver,Receiving antenna,44.25; 631.0; 632.0; 633.0; 635.0; 637.0; 639.0,44.25
+SM2501030640.txt,25.01.03,06.40,Observer,Receiving Location,Receiver,Receiving antenna,44.25; 643.0; 647.0; 648.0; 649.0,44.25
+SM2501030650.txt,25.01.03,06.50,Observer,Receiving Location,Receiver,Receiving antenna,44.25; 651.0; 653.0; 654.0; 655.0; 657.0; 659.0,44.25
+SM2501030700.txt,25.01.03,07.00,Observer,Receiving Location,Receiver,Receiving antenna,44.25; 701.0; 702.0; 703.0; 704.0; 706.0; 707.0; 708.0; 709.0,44.25
+SM2501030710.txt,25.01.03,07.10,Observer,Receiving Location,Receiver,Receiving antenna,44.25; 711.0; 713.0; 714.0; 715.0; 719.0,44.25
+SM2501030720.txt,25.01.03,07.20,Observer,Receiving Location,Receiver,Receiving antenna,723.0; 725.0; 726.0; 729.0,77.259.775
+SM2501030730.txt,25.01.03,07.30,Observer,Receiving Location,Receiver,Receiving antenna,44.25; 731.0; 733.0; 737.0; 739.0,44.25
+SM2501030740.txt,25.01.03,07.40,Observer,Receiving Location,Receiver,Receiving antenna,44.25; 741.0; 743.0; 744.0; 746.0; 747.0; 748.0; 749.0,44.25
+SM2501030750.txt,25.01.03,07.50,Observer,Receiving Location,Receiver,Receiving antenna,44.25; 751.0; 752.0; 753.0; 755.0; 757.0; 758.0; 759.0,44.25
+SM2501030800.txt,25.01.03,08.00,Observer,Receiving Location,Receiver,Receiving antenna,44.25; 801.0; 803.0; 805.0; 806.0; 807.0; 808.0; 809.0,44.25
+SM2501030810.txt,25.01.03,08.10,Observer,Receiving Location,Receiver,Receiving antenna,44.25; 811.0; 812.0; 813.0; 814.0; 815.0; 818.0,44.25
+SM2501030820.txt,25.01.03,08.20,Observer,Receiving Location,Receiver,Receiving antenna,44.25; 821.0; 826.0; 828.0,44.25
+SM2501030830.txt,25.01.03,08.30,Observer,Receiving Location,Receiver,Receiving antenna,44.25; 831.0; 832.0; 836.0; 837.0; 838.0; 839.0,44.25
+SM2501030840.txt,25.01.03,08.40,Observer,Receiving Location,Receiver,Receiving antenna,44.25; 841.0; 842.0; 844.0; 848.0,44.25
+SM2501030850.txt,25.01.03,08.50,Observer,Receiving Location,Receiver,Receiving antenna,44.25; 852.0; 853.0; 854.0; 855.0; 859.0,44.25
+SM2501030900.txt,25.01.03,09.00,Observer,Receiving Location,Receiver,Receiving antenna,44.25; 902.0; 904.0; 906.0,44.25
+SM2501030910.txt,25.01.03,09.10,Observer,Receiving Location,Receiver,Receiving antenna,44.25; 911.0; 912.0; 913.0; 916.0; 917.0,44.25
+SM2501030920.txt,25.01.03,09.20,Observer,Receiving Location,Receiver,Receiving antenna,44.25; 922.0; 924.0; 927.0; 928.0; 929.0,44.25
+SM2501030930.txt,25.01.03,09.30,Observer,Receiving Location,Receiver,Receiving antenna,44.25; 931.0; 932.0; 934.0; 936.0; 937.0; 938.0,44.25
+SM2501030940.txt,25.01.03,09.40,Observer,Receiving Location,Receiver,Receiving antenna,44.25; 94.0; 942.0; 943.0; 944.0; 948.0,44.25
+SM2501030950.txt,25.01.03,09.50,Observer,Receiving Location,Receiver,Receiving antenna,44.25; 952.0; 958.0,44.25
+SM2501031000.txt,25.01.03,10.00,Observer,Receiving Location,Receiver,Receiving antenna,44.25; 1002.0; 1003.0; 1008.0,44.25
+SM2501031010.txt,25.01.03,10.10,Observer,Receiving Location,Receiver,Receiving antenna,44.25; 1012.0; 1013.0; 1014.0; 1018.0,44.25
+SM2501031020.txt,25.01.03,10.20,Observer,Receiving Location,Receiver,Receiving antenna,44.25; 1021.0; 1022.0; 1074.0; 1028.0; 1029.0,44.25
+SM2501031030.txt,25.01.03,10.30,Observer,Receiving Location,Receiver,Receiving antenna,44.25; 1032.0; 1033.0; 1035.0; 1038.0; 1039.0; 1040.0,44.25
+SM2501031040.txt,25.01.03,10.40,Observer,Receiving Location,Receiver,Receiving antenna,44.25; 1041.0; 1042.0; 1044.0; 1045.0,44.25
+SM2501031050.txt,25.01.03,10.50,Observer,Receiving Location,Receiver,Receiving antenna,44.25; 1052.0; 1055.0; 1059.0,44.25
+SM2501031100.txt,25.01.03,11.00,Observer,Receiving Location,Receiver,Receiving antenna,44.25; 1103.0; 1104.0; 1105.0,44.25
+SM2501031110.txt,25.01.03,11.10,Observer,Receiving Location,Receiver,Receiving antenna,44.25; 1447.0; 1115.0; 1116.0; 1118.0; 1440.0,44.25
+SM2501031120.txt,25.01.03,11.20,Observer,Receiving Location,Receiver,Receiving antenna,44.25; 1121.0; 1122.0; 1123.0; 1472.0; 1125.0; 1126.0; 1127.0; 1128.0; 1470.0,44.25
+SM2501031130.txt,25.01.03,11.30,Observer,Receiving Location,Receiver,Receiving antenna,44.25; 1434.0; 1132.0; 1133.0; 1434.0; 1135.0; 1136.0; 1137.0; 1138.0; 1139.0,44.25
+SM2501031140.txt,25.01.03,11.40,Observer,Receiving Location,Receiver,Receiving antenna,44.25; 1142.0; 1145.0; 1146.0; 1147.0; 1148.0; 1440.0,44.25
+SM2501031150.txt,25.01.03,11.50,Observer,Receiving Location,Receiver,Receiving antenna,44.25; 11512.0; 1152.0; 1153.0; 1155.0; 1156.0; 1157.0; 1158.0; 1159.0,44.25
+SM2501031200.txt,25.01.03,12.00,Observer,Receiving Location,Receiver,Receiving antenna,44.25; 201.0; 1202.0; 203.0; 1204.0; 1205.0; 1207.0; 1208.0; 1209.0,44.25
+SM2501031210.txt,25.01.03,12.10,Observer,Receiving Location,Receiver,Receiving antenna,44.25; 1212.0; 12137.0; 1214.0; 1215.0; 1216.0; 1219.0,44.25
+SM2501031220.txt,25.01.03,12.20,Observer,Receiving Location,Receiver,Receiving antenna,44.25; 1221.0; 1222.0; 1223.0; 1225.0; 1226.0; 1227.0; 1228.0; 1229.0,44.25
+SM2501031230.txt,25.01.03,12.30,Observer,Receiving Location,Receiver,Receiving antenna,44.25; 1231.0; 1232.0; 1233.0; 1234.0; 1235.0; 1236.0; 1237.0; 1238.0; 1239.0,44.25
+SM2501031240.txt,25.01.03,12.40,Observer,Receiving Location,Receiver,Receiving antenna,44.25; 1242.0; 1243.0; 1244.0; 1245.0; 12462.0; 1247.0; 1248.0; 1249.0,44.25
+SM2501031250.txt,25.01.03,12.50,Observer,Receiving Location,Receiver,Receiving antenna,44.25; 1252.0; 1253.0; 1254.0; 1255.0; 1257.0; 1258.0; 1259.0,44.25
+SM2501031300.txt,25.01.03,13.00,Observer,Receiving Location,Receiver,Receiving antenna,44.25; 1302.0; 1303.0; 1305.0; 1306.0; 1307.0; 1309.0,44.25
+SM2501031310.txt,25.01.03,13.10,Observer,Receiving Location,Receiver,Receiving antenna,1312.0; 1313.0; 1314.0; 1315.0; 1317.0; 1319.0,77.259.775
+SM2501031320.txt,25.01.03,13.20,Observer,Receiving Location,Receiver,Receiving antenna,44.25; 1322.0; 1323.0; 1325.0; 1326.0; 1327.0; 1329.0,44.25
+SM2501031330.txt,25.01.03,13.30,Observer,Receiving Location,Receiver,Receiving antenna,44.25; 1332.0; 1333.0; 1334.0; 1335.0; 1337.0; 1338.0; 1339.0,44.25
+SM2501031340.txt,25.01.03,13.40,Observer,Receiving Location,Receiver,Receiving antenna,44.25; 1342.0; 1343.0; 1344.0; 1345.0; 1346.0; 1347.0; 1349.0,44.25
+SM2501031350.txt,25.01.03,13.50,Observer,Receiving Location,Receiver,Receiving antenna,44.25; 1352.0; 1353.0; 1354.0; 1355.0; 1356.0; 1357.0; 1358.0; 1359.0,44.25
+SM2501031400.txt,25.01.03,14.00,Observer,Receiving Location,Receiver,Receiving antenna,44.25; 1401.0; 1402.0; 1403.0; 1404.0; 1405.0; 1406.0; 1407.0; 1408.0; 1409.0,44.25
+SM2501031410.txt,25.01.03,14.10,Observer,Receiving Location,Receiver,Receiving antenna,1412.0; 1413.0; 1415.0; 1417.0; 1419.0,77.259.775
+SM2501031420.txt,25.01.03,14.20,Observer,Receiving Location,Receiver,Receiving antenna,44.25; 1422.0; 1423.0; 1424.0; 1425.0; 1426.0; 1427.0; 1428.0; 1429.0,44.25
+SM2501031430.txt,25.01.03,14.30,Observer,Receiving Location,Receiver,Receiving antenna,44.25; 1432.0; 1433.0; 1434.0; 1435.0; 1436.0; 1437.0; 1439.0; 1440.0,44.25
+SM2501031440.txt,25.01.03,14.40,Observer,Receiving Location,Receiver,Receiving antenna,1442.0; 1443.0; 14452.0; 1446.0; 1447.0; 1448.0; 1449.0,77.259.775
+SM2501031450.txt,25.01.03,14.50,Observer,Receiving Location,Receiver,Receiving antenna,1453.0; 1459.0,77.259.775
+SM2501031500.txt,25.01.03,15.00,Observer,Receiving Location,Receiver,Receiving antenna,44.25; 1502.0; 1503.0; 15052.0; 1506.0; 1507.0; 1508.0; 1509.0,44.25
+SM2501031510.txt,25.01.03,15.10,Observer,Receiving Location,Receiver,Receiving antenna,1512.0; 1513.0; 1517.0; 1519.0,77.259.775
+SM2501031520.txt,25.01.03,15.20,Observer,Receiving Location,Receiver,Receiving antenna,44.25; 1522.0; 1523.0; 1524.0; 525.0; 1528.0,44.25
+SM2501031530.txt,25.01.03,15.30,Observer,Receiving Location,Receiver,Receiving antenna,1532.0; 1533.0; 1535.0; 1536.0; 1538.0; 1539.0; 0.9,77.259.775
+SM2501031540.txt,25.01.03,15.40,Observer,Receiving Location,Receiver,Receiving antenna,1542.0; 0.9,77.259.775
+SM2501031550.txt,25.01.03,15.50,Observer,Receiving Location,Receiver,Receiving antenna,44.25; 1552.0; 1553.0; 1554.0; 1555.0; 1559.0; 0.9,44.25
+SM2501031600.txt,25.01.03,16.00,Observer,Receiving Location,Receiver,Receiving antenna,44.25; 1602.0; 1603.0; 1604.0; 1608.0; 1609.0,44.25
+SM2501031610.txt,25.01.03,16.10,Observer,Receiving Location,Receiver,Receiving antenna,1616.0; 1618.0,77.259.775
+SM2501031620.txt,25.01.03,16.20,Observer,Receiving Location,Receiver,Receiving antenna,1622.0; 1623.0; 1625.0; 1629.0,77.259.775
+SM2501031630.txt,25.01.03,16.30,Observer,Receiving Location,Receiver,Receiving antenna,1632.0; 1633.0; 1635.0; 1639.0,77.259.775
+SM2501031640.txt,25.01.03,16.40,Observer,Receiving Location,Receiver,Receiving antenna,1642.0; 1643.0; 1647.0; 1648.0; 1649.0,77.259.775
+SM2501031650.txt,25.01.03,16.50,Observer,Receiving Location,Receiver,Receiving antenna,44.25; 1652.0; 1653.0; 1654.0; 1655.0; 1656.0; 1658.0; 1659.0,44.25
+SM2501031700.txt,25.01.03,17.00,Observer,Receiving Location,Receiver,Receiving antenna,44.25; 1702.0; 1703.0; 17052.0; 1708.0,44.25
+SM2501031710.txt,25.01.03,17.10,Observer,Receiving Location,Receiver,Receiving antenna,1713.0; 1718.0,77.259.775
+SM2501031720.txt,25.01.03,17.20,Observer,Receiving Location,Receiver,Receiving antenna,1722.0; 1723.0; 1725.0; 1726.0; 1727.0; 1728.0; 1729.0,77.259.775
+SM2501031730.txt,25.01.03,17.30,Observer,Receiving Location,Receiver,Receiving antenna,1732.0; 1733.0; 1734.0; 1735.0; 1736.0; 1738.0; 1739.0,77.259.775
+SM2501031740.txt,25.01.03,17.40,Observer,Receiving Location,Receiver,Receiving antenna,1742.0; 1743.0; 1745.0; 1746.0,77.259.775
+SM2501031750.txt,25.01.03,17.50,Observer,Receiving Location,Receiver,Receiving antenna,1752.0; 1753.0; 17552.0; 1756.0; 1758.0; 1759.0,77.259.775
+SM2501031800.txt,25.01.03,18.00,Observer,Receiving Location,Receiver,Receiving antenna,44.25; 1803.0; 1808.0; 1809.0,44.25
+SM2501031810.txt,25.01.03,18.10,Observer,Receiving Location,Receiver,Receiving antenna,1818.0; 1819.0,77.259.775
+SM2501031820.txt,25.01.03,18.20,Observer,Receiving Location,Receiver,Receiving antenna,1822.0; 1823.0; 1825.0; 1826.0; 1827.0; 1828.0; 1829.0,77.259.775
+SM2501040020.txt,25.01.04,00.20,Observer,Receiving Location,Receiver,Receiving antenna,44.25; 29.0,44.25
+SM2501040030.txt,25.01.04,00.30,Observer,Receiving Location,Receiver,Receiving antenna,44.25; 32.0; 33.0; 34.0; 35.0; 36.0; 39.0,44.25
+SM2501040040.txt,25.01.04,00.40,Observer,Receiving Location,Receiver,Receiving antenna,44.25; 42.0; 43.0; 45.0; 49.0,44.25
+SM2501040050.txt,25.01.04,00.50,Observer,Receiving Location,Receiver,Receiving antenna,44.25; 53.0; 55.0; 56.0; 58.0; 59.0,44.25
+SM2501040100.txt,25.01.04,01.00,Observer,Receiving Location,Receiver,Receiving antenna,44.25; 103.0; 105.0; 106.0; 108.0; 109.0,44.25
+SM2501040110.txt,25.01.04,01.10,Observer,Receiving Location,Receiver,Receiving antenna,44.25; 116.0; 118.0,44.25
+SM2501040120.txt,25.01.04,01.20,Observer,Receiving Location,Receiver,Receiving antenna,44.25; 122.0; 123.0; 129.0,44.25
+SM2501040130.txt,25.01.04,01.30,Observer,Receiving Location,Receiver,Receiving antenna,44.25; 133.0; 135.0; 138.0; 139.0,44.25
+SM2501040140.txt,25.01.04,01.40,Observer,Receiving Location,Receiver,Receiving antenna,143.0; 146.0; 148.0; 149.0,77.259.775
+SM2501040150.txt,25.01.04,01.50,Observer,Receiving Location,Receiver,Receiving antenna,44.25; 152.0; 153.0; 155.0; 159.0,44.25
+SM2501040200.txt,25.01.04,02.00,Observer,Receiving Location,Receiver,Receiving antenna,44.25; 202.0; 203.0; 204.0; 206.0; 209.0,44.25
+SM2501040210.txt,25.01.04,02.10,Observer,Receiving Location,Receiver,Receiving antenna,44.25; 213.0; 215.0; 219.0,44.25
+SM2501040220.txt,25.01.04,02.20,Observer,Receiving Location,Receiver,Receiving antenna,222.0; 223.0; 227.0; 229.0,77.259.775
+SM2501040230.txt,25.01.04,02.30,Observer,Receiving Location,Receiver,Receiving antenna,44.25; 233.0; 235.0; 236.0; 237.0,44.25
+SM2501040240.txt,25.01.04,02.40,Observer,Receiving Location,Receiver,Receiving antenna,243.0; 248.0; 249.0,77.259.775
+SM2501040250.txt,25.01.04,02.50,Observer,Receiving Location,Receiver,Receiving antenna,253.0; 255.0; 256.0; 258.0,77.259.775
+SM2501040300.txt,25.01.04,03.00,Observer,Receiving Location,Receiver,Receiving antenna,44.25; 303.0; 305.0; 308.0; 309.0,44.25
+SM2501040310.txt,25.01.04,03.10,Observer,Receiving Location,Receiver,Receiving antenna,44.25; 315.0; 316.0; 318.0,44.25
+SM2501040320.txt,25.01.04,03.20,Observer,Receiving Location,Receiver,Receiving antenna,323.0; 325.0; 327.0; 328.0; 329.0,77.259.775
+SM2501040330.txt,25.01.04,03.30,Observer,Receiving Location,Receiver,Receiving antenna,44.25; 333.0; 335.0; 336.0; 337.0; 338.0; 339.0; 340.0,44.25
+SM2501040340.txt,25.01.04,03.40,Observer,Receiving Location,Receiver,Receiving antenna,44.25; 343.0; 346.0; 348.0; 349.0,44.25
+SM2501040350.txt,25.01.04,03.50,Observer,Receiving Location,Receiver,Receiving antenna,44.25; 353.0; 355.0; 356.0; 358.0; 359.0,44.25
+SM2501040400.txt,25.01.04,04.00,Observer,Receiving Location,Receiver,Receiving antenna,44.25; 403.0; 405.0; 409.0,44.25
+SM2501040410.txt,25.01.04,04.10,Observer,Receiving Location,Receiver,Receiving antenna,44.25; 415.0; 416.0; 418.0; 419.0,44.25
+SM2501040420.txt,25.01.04,04.20,Observer,Receiving Location,Receiver,Receiving antenna,423.0; 427.0; 428.0; 429.0,77.259.775
+SM2501040430.txt,25.01.04,04.30,Observer,Receiving Location,Receiver,Receiving antenna,44.25; 433.0; 435.0; 436.0; 438.0; 439.0,44.25
+SM2501040440.txt,25.01.04,04.40,Observer,Receiving Location,Receiver,Receiving antenna,44.25; 443.0; 445.0; 449.0,44.25
+SM2501040450.txt,25.01.04,04.50,Observer,Receiving Location,Receiver,Receiving antenna,44.25; 453.0; 455.0; 459.0,44.25
+SM2501040500.txt,25.01.04,05.00,Observer,Receiving Location,Receiver,Receiving antenna,44.25; 503.0; 508.0; 509.0,44.25
+SM2501040510.txt,25.01.04,05.10,Observer,Receiving Location,Receiver,Receiving antenna,44.25; 513.0; 515.0; 516.0; 518.0; 519.0,44.25
+SM2501040520.txt,25.01.04,05.20,Observer,Receiving Location,Receiver,Receiving antenna,44.25; 523.0; 525.0; 529.0,44.25
+SM2501040530.txt,25.01.04,05.30,Observer,Receiving Location,Receiver,Receiving antenna,532.0; 533.0; 535.0; 539.0,77.259.775
+SM2501040540.txt,25.01.04,05.40,Observer,Receiving Location,Receiver,Receiving antenna,543.0; 546.0,77.259.775
+SM2501040550.txt,25.01.04,05.50,Observer,Receiving Location,Receiver,Receiving antenna,44.25; 553.0; 556.0; 558.0; 559.0,44.25
+SM2501040600.txt,25.01.04,06.00,Observer,Receiving Location,Receiver,Receiving antenna,44.25; 603.0; 605.0; 609.0,44.25
+SM2501040610.txt,25.01.04,06.10,Observer,Receiving Location,Receiver,Receiving antenna,44.25; 613.0; 615.0; 618.0; 619.0,44.25
+SM2501040620.txt,25.01.04,06.20,Observer,Receiving Location,Receiver,Receiving antenna,44.25; 622.0; 623.0; 624.0; 626.0; 627.0; 628.0; 629.0,44.25
+SM2501040630.txt,25.01.04,06.30,Observer,Receiving Location,Receiver,Receiving antenna,44.25; 633.0; 635.0; 637.0; 638.0; 639.0,44.25
+SM2501040640.txt,25.01.04,06.40,Observer,Receiving Location,Receiver,Receiving antenna,44.25; 641.0; 643.0; 645.0; 647.0; 648.0; 650.0,44.25
+SM2501040650.txt,25.01.04,06.50,Observer,Receiving Location,Receiver,Receiving antenna,44.25; 653.0; 655.0; 658.0; 659.0; 700.0,44.25
+SM2501040700.txt,25.01.04,07.00,Observer,Receiving Location,Receiver,Receiving antenna,44.25; 703.0; 705.0,44.25
+SM2501040710.txt,25.01.04,07.10,Observer,Receiving Location,Receiver,Receiving antenna,712.0; 715.0; 719.0; 720.0,77.259.775
+SM2501040720.txt,25.01.04,07.20,Observer,Receiving Location,Receiver,Receiving antenna,44.25; 722.0; 723.0; 728.0; 729.0,44.25
+SM2501040730.txt,25.01.04,07.30,Observer,Receiving Location,Receiver,Receiving antenna,44.25; 732.0; 739.0,44.25
+SM2501040740.txt,25.01.04,07.40,Observer,Receiving Location,Receiver,Receiving antenna,44.25; 741.0; 742.0; 743.0; 745.0; 746.0; 748.0; 749.0; 750.0,44.25
+SM2501040750.txt,25.01.04,07.50,Observer,Receiving Location,Receiver,Receiving antenna,44.25; 752.0; 756.0; 757.0; 759.0; 800.0,44.25
+SM2501040800.txt,25.01.04,08.00,Observer,Receiving Location,Receiver,Receiving antenna,44.25; 801.0; 802.0; 804.0; 806.0; 809.0,44.25
+SM2501040810.txt,25.01.04,08.10,Observer,Receiving Location,Receiver,Receiving antenna,44.25; 812.0; 816.0; 818.0; 819.0; 820.0,44.25
+SM2501040820.txt,25.01.04,08.20,Observer,Receiving Location,Receiver,Receiving antenna,44.25; 823.0; 824.0; 825.0; 826.0; 827.0; 828.0; 829.0,44.25
+SM2501040830.txt,25.01.04,08.30,Observer,Receiving Location,Receiver,Receiving antenna,44.25; 832.0; 833.0; 836.0; 837.0; 839.0; 840.0,44.25
+SM2501040840.txt,25.01.04,08.40,Observer,Receiving Location,Receiver,Receiving antenna,44.25; 842.0; 846.0; 847.0; 848.0; 849.0; 850.0,44.25
+SM2501040850.txt,25.01.04,08.50,Observer,Receiving Location,Receiver,Receiving antenna,44.25; 852.0; 853.0; 856.0; 858.0,44.25
+SM2501040900.txt,25.01.04,09.00,Observer,Receiving Location,Receiver,Receiving antenna,44.25; 902.0; 9033.0; 905.0; 908.0,44.25
+SM2501040910.txt,25.01.04,09.10,Observer,Receiving Location,Receiver,Receiving antenna,44.25; 912.0; 914.0; 915.0; 918.0; 919.0,44.25
+SM2501040920.txt,25.01.04,09.20,Observer,Receiving Location,Receiver,Receiving antenna,44.25; 922.0; 923.0; 924.0; 925.0; 926.0; 930.0,44.25
+SM2501040930.txt,25.01.04,09.30,Observer,Receiving Location,Receiver,Receiving antenna,44.25; 932.0; 933.0; 934.0; 936.0; 939.0; 940.0,44.25
+SM2501040940.txt,25.01.04,09.40,Observer,Receiving Location,Receiver,Receiving antenna,44.25; 942.0; 943.0; 946.0; 948.0; 949.0,44.25
+SM2501040950.txt,25.01.04,09.50,Observer,Receiving Location,Receiver,Receiving antenna,44.25; 952.0; 953.0; 954.0; 955.0; 958.0; 959.0,44.25
+SM2501041000.txt,25.01.04,10.00,Observer,Receiving Location,Receiver,Receiving antenna,44.25; 1002.0; 1008.0; 1009.0; 10102.0,44.25
+SM2501041010.txt,25.01.04,10.10,Observer,Receiving Location,Receiver,Receiving antenna,44.25; 1012.0; 1016.0; 1017.0; 1018.0; 1019.0; 10205.0,44.25
+SM2501041020.txt,25.01.04,10.20,Observer,Receiving Location,Receiver,Receiving antenna,44.25; 1022.0; 1023.0; 1029.0,44.25
+SM2501041030.txt,25.01.04,10.30,Observer,Receiving Location,Receiver,Receiving antenna,44.25; 1032.0; 1039.0; 0.9,44.25
+SM2501041040.txt,25.01.04,10.40,Observer,Receiving Location,Receiver,Receiving antenna,44.25; 1042.0; 1049.0; 0.9,44.25
+SM2501041050.txt,25.01.04,10.50,Observer,Receiving Location,Receiver,Receiving antenna,44.25; 1052.0; 10592.0; 0.9,44.25
+SM2501041100.txt,25.01.04,11.00,Observer,Receiving Location,Receiver,Receiving antenna,1108.0; 1109.0; 0.9,77.259.775
+SM2501041110.txt,25.01.04,11.10,Observer,Receiving Location,Receiver,Receiving antenna,44.25; 1112.0; 1115.0; 1116.0; 1118.0; 1119.0; 0.9,44.25
+SM2501041120.txt,25.01.04,11.20,Observer,Receiving Location,Receiver,Receiving antenna,44.25; 4474.0; 1125.0; 1126.0; 1127.0; 1128.0; 1129.0,44.25
+SM2501041130.txt,25.01.04,11.30,Observer,Receiving Location,Receiver,Receiving antenna,44.25; 4434.0; 1132.0; 1434.0; 1135.0; 1136.0; 1137.0; 1138.0; 1139.0,44.25
+SM2501041140.txt,25.01.04,11.40,Observer,Receiving Location,Receiver,Receiving antenna,1142.0; 4443.0; 1144.0; 1145.0; 1146.0; 1148.0; 1149.0,77.259.775
+SM2501041150.txt,25.01.04,11.50,Observer,Receiving Location,Receiver,Receiving antenna,44.25; 1152.0; 1153.0; 1154.0; 1156.0; 1158.0; 1159.0,44.25
+SM2501041200.txt,25.01.04,12.00,Observer,Receiving Location,Receiver,Receiving antenna,44.25; 206.0; 12075.0; 1209.0,44.25
+SM2501041210.txt,25.01.04,12.10,Observer,Receiving Location,Receiver,Receiving antenna,44.25; 1215.0; 1218.0; 1219.0,44.25
+SM2501041220.txt,25.01.04,12.20,Observer,Receiving Location,Receiver,Receiving antenna,44.25; 1223.0; 1228.0; 1229.0,44.25
+SM2501041230.txt,25.01.04,12.30,Observer,Receiving Location,Receiver,Receiving antenna,44.25; 1232.0; 1233.0; 1235.0; 1236.0; 1237.0; 1238.0; 1239.0,44.25
+SM2501041240.txt,25.01.04,12.40,Observer,Receiving Location,Receiver,Receiving antenna,44.25; 1242.0; 1244.0; 1247.0; 1249.0,44.25
+SM2501041250.txt,25.01.04,12.50,Observer,Receiving Location,Receiver,Receiving antenna,44.25; 1253.0; 1254.0; 1256.0; 1258.0,44.25
+SM2501041300.txt,25.01.04,13.00,Observer,Receiving Location,Receiver,Receiving antenna,44.25; 1302.0; 1303.0; 1305.0; 1308.0; 1309.0,44.25
+SM2501041310.txt,25.01.04,13.10,Observer,Receiving Location,Receiver,Receiving antenna,44.25; 1312.0; 1313.0; 1314.0; 1315.0; 1316.0; 1318.0,44.25
+SM2501041320.txt,25.01.04,13.20,Observer,Receiving Location,Receiver,Receiving antenna,44.25; 1321.0; 322.0; 1324.0; 1325.0; 13263.0; 1327.0; 1328.0; 1329.0,44.25
+SM2501041330.txt,25.01.04,13.30,Observer,Receiving Location,Receiver,Receiving antenna,44.25; 1332.0; 1333.0; 1334.0; 1335.0; 336.0; 1339.0,44.25
+SM2501041340.txt,25.01.04,13.40,Observer,Receiving Location,Receiver,Receiving antenna,44.25; 13417.0; 1342.0; 1343.0; 1344.0; 1345.0; 1346.0; 1347.0; 1348.0; 1349.0,44.25
+SM2501041357.txt,25.01.04,13.57,Observer,Receiving Location,Receiver,Receiving antenna,44.25; 1359.0; 14002.0,44.25
+SM2501041400.txt,25.01.04,14.00,Observer,Receiving Location,Receiver,Receiving antenna,44.25; 14035.0; 404.0; 409.0,44.25
+SM2501041410.txt,25.01.04,14.10,Observer,Receiving Location,Receiver,Receiving antenna,1412.0; 1413.0; 1414.0; 1415.0,77.259.775
+SM2501041420.txt,25.01.04,14.20,Observer,Receiving Location,Receiver,Receiving antenna,44.25; 142.0; 1422.0; 1424.0; 1425.0; 1428.0; 4470.0,44.25
+SM2501041430.txt,25.01.04,14.30,Observer,Receiving Location,Receiver,Receiving antenna,44.25; 4434.0; 1432.0; 4434.0; 1435.0; 1439.0,44.25
+SM2501041440.txt,25.01.04,14.40,Observer,Receiving Location,Receiver,Receiving antenna,44.25; 1442.0; 14447.0; 1448.0,44.25
+SM2501041450.txt,25.01.04,14.50,Observer,Receiving Location,Receiver,Receiving antenna,44.25; 145.0; 1404.0; 1456.0; 1457.0; 1458.0; 1459.0,44.25
+SM2501041500.txt,25.01.04,15.00,Observer,Receiving Location,Receiver,Receiving antenna,44.25; 504.0; 505.0; 1510.0,44.25
+SM2501041510.txt,25.01.04,15.10,Observer,Receiving Location,Receiver,Receiving antenna,44.25; 1512.0; 1513.0; 1514.0; 1515.0; 1516.0; 1517.0; 1518.0; 1519.0; 15202.0,44.25
+SM2501041520.txt,25.01.04,15.20,Observer,Receiving Location,Receiver,Receiving antenna,44.25; 1522.0; 1523.0; 1524.0; 1525.0; 1528.0; 1529.0,44.25
+SM2501041530.txt,25.01.04,15.30,Observer,Receiving Location,Receiver,Receiving antenna,1532.0; 1539.0; 0.9,77.259.775
+SM2501041540.txt,25.01.04,15.40,Observer,Receiving Location,Receiver,Receiving antenna,44.25; 1542.0; 1543.0; 1544.0; 1545.0; 1546.0; 1547.0; 1548.0; 1549.0,44.25
+SM2501041550.txt,25.01.04,15.50,Observer,Receiving Location,Receiver,Receiving antenna,44.25; 1552.0; 553.0; 1555.0; 556.0; 1558.0,44.25
+SM2501041600.txt,25.01.04,16.00,Observer,Receiving Location,Receiver,Receiving antenna,44.25; 1602.0; 1603.0; 1604.0,44.25
+SM2501041610.txt,25.01.04,16.10,Observer,Receiving Location,Receiver,Receiving antenna,1611.0; 1612.0; 1614.0; 1615.0; 1616.0; 1618.0,77.259.775
+SM2501041620.txt,25.01.04,16.20,Observer,Receiving Location,Receiver,Receiving antenna,1622.0; 1623.0; 1625.0; 1626.0; 1627.0; 1628.0; 1629.0; 0.9,77.259.775
+SM2501041630.txt,25.01.04,16.30,Observer,Receiving Location,Receiver,Receiving antenna,44.25; 1632.0; 1633.0; 1635.0; 1636.0; 1638.0; 1639.0; 0.9,44.25
+SM2501041641.txt,25.01.04,16.41,Observer,Receiving Location,Receiver,Receiving antenna,44.25; 1643.0; 1645.0; 1646.0; 1648.0,44.25
+SM2501041650.txt,25.01.04,16.50,Observer,Receiving Location,Receiver,Receiving antenna,44.25; 1652.0; 1653.0; 1655.0; 1656.0,44.25
+SM2501041700.txt,25.01.04,17.00,Observer,Receiving Location,Receiver,Receiving antenna,44.25; 1704.0; 17052.0; 1709.0,44.25
+SM2501041710.txt,25.01.04,17.10,Observer,Receiving Location,Receiver,Receiving antenna,1717.0; 1719.0; 0.9,77.259.775
+SM2501041720.txt,25.01.04,17.20,Observer,Receiving Location,Receiver,Receiving antenna,172.0; 1722.0; 1724.0; 1726.0; 1727.0; 1728.0; 1729.0,77.259.775
+SM2501041730.txt,25.01.04,17.30,Observer,Receiving Location,Receiver,Receiving antenna,1733.0; 1735.0; 1736.0; 1738.0; 1739.0,77.259.775
+SM2501041740.txt,25.01.04,17.40,Observer,Receiving Location,Receiver,Receiving antenna,1743.0; 1748.0; 1749.0; 0.6,77.259.775
+SM2501041750.txt,25.01.04,17.50,Observer,Receiving Location,Receiver,Receiving antenna,1752.0; 1753.0; 1755.0; 1756.0; 1757.0; 1758.0; 1759.0,77.259.775
+SM2501041800.txt,25.01.04,18.00,Observer,Receiving Location,Receiver,Receiving antenna,44.25; 1803.0; 18052.0,44.25
+SM2501041810.txt,25.01.04,18.10,Observer,Receiving Location,Receiver,Receiving antenna,44.25; 1812.0; 1819.0,44.25
+SM2501041820.txt,25.01.04,18.20,Observer,Receiving Location,Receiver,Receiving antenna,1822.0; 1823.0; 1825.0; 1829.0,77.259.775
+SM2501041830.txt,25.01.04,18.30,Observer,Receiving Location,Receiver,Receiving antenna,44.25; 1832.0; 1833.0; 1839.0,44.25
+SM2501041840.txt,25.01.04,18.40,Observer,Receiving Location,Receiver,Receiving antenna,1842.0; 1843.0; 1846.0,77.259.775
+SM2501041850.txt,25.01.04,18.50,Observer,Receiving Location,Receiver,Receiving antenna,44.25; 1852.0; 1853.0; 1856.0; 1857.0; 1858.0; 1859.0,44.25
+SM2501041900.txt,25.01.04,19.00,Observer,Receiving Location,Receiver,Receiving antenna,44.25; 1902.0; 19052.0; 1906.0; 1908.0; 1909.0,44.25
+SM2501041910.txt,25.01.04,19.10,Observer,Receiving Location,Receiver,Receiving antenna,1915.0; 1916.0; 1918.0; 1919.0,77.259.775
+SM2501041920.txt,25.01.04,19.20,Observer,Receiving Location,Receiver,Receiving antenna,44.25; 1922.0; 1923.0; 1925.0,44.25
+SM2501041930.txt,25.01.04,19.30,Observer,Receiving Location,Receiver,Receiving antenna,44.25; 1932.0; 1933.0; 1936.0; 1937.0; 1938.0; 1939.0,44.25
+SM2501041940.txt,25.01.04,19.40,Observer,Receiving Location,Receiver,Receiving antenna,1942.0; 1943.0; 1945.0; 1946.0; 1947.0; 1948.0,77.259.775
+SM2501041950.txt,25.01.04,19.50,Observer,Receiving Location,Receiver,Receiving antenna,44.25; 1952.0; 1953.0; 1954.0; 1956.0; 1957.0,44.25
+SM2501042000.txt,25.01.04,20.00,Observer,Receiving Location,Receiver,Receiving antenna,44.25; 2003.0; 2005.0; 2008.0; 2009.0,44.25
+SM2501042010.txt,25.01.04,20.10,Observer,Receiving Location,Receiver,Receiving antenna,44.25; 2013.0; 2018.0; 2019.0,44.25
+SM2501042030.txt,25.01.04,20.30,Observer,Receiving Location,Receiver,Receiving antenna,44.25; 2033.0; 2035.0; 2036.0; 2037.0; 2038.0; 2039.0,44.25
+SM2501042040.txt,25.01.04,20.40,Observer,Receiving Location,Receiver,Receiving antenna,44.25; 2043.0; 2045.0; 2048.0; 2049.0,44.25
+SM2501042050.txt,25.01.04,20.50,Observer,Receiving Location,Receiver,Receiving antenna,44.25; 2053.0; 2055.0; 2058.0; 2059.0,44.25
+SM2501050722.txt,25.01.05,07.22,Observer,Receiving Location,Receiver,Receiving antenna,44.25; 727.0; 729.0,44.25
+SM2501050730.txt,25.01.05,07.30,Observer,Receiving Location,Receiver,Receiving antenna,44.25; 732.0; 733.0; 736.0; 737.0; 738.0; 739.0,44.25
+SM2501050740.txt,25.01.05,07.40,Observer,Receiving Location,Receiver,Receiving antenna,44.25; 742.0; 744.0; 746.0; 747.0; 748.0; 749.0; 750.0,44.25
+SM2501050750.txt,25.01.05,07.50,Observer,Receiving Location,Receiver,Receiving antenna,44.25; 751.0; 753.0; 755.0; 757.0; 759.0,44.25
+SM2501050800.txt,25.01.05,08.00,Observer,Receiving Location,Receiver,Receiving antenna,44.25; 802.0; 803.0; 806.0; 809.0,44.25
+SM2501050810.txt,25.01.05,08.10,Observer,Receiving Location,Receiver,Receiving antenna,44.25; 812.0; 814.0; 815.0; 818.0; 819.0,44.25
+SM2501050820.txt,25.01.05,08.20,Observer,Receiving Location,Receiver,Receiving antenna,44.25; 821.0; 822.0; 823.0; 824.0; 826.0; 828.0; 829.0,44.25
+SM2501050830.txt,25.01.05,08.30,Observer,Receiving Location,Receiver,Receiving antenna,44.25; 832.0; 833.0; 835.0; 838.0; 839.0,44.25
+SM2501050840.txt,25.01.05,08.40,Observer,Receiving Location,Receiver,Receiving antenna,44.25; 842.0; 843.0; 844.0; 845.0; 846.0; 847.0,44.25
+SM2501050850.txt,25.01.05,08.50,Observer,Receiving Location,Receiver,Receiving antenna,44.25; 851.0; 852.0; 853.0; 854.0; 855.0; 856.0; 857.0; 858.0; 859.0,44.25
+SM2501050900.txt,25.01.05,09.00,Observer,Receiving Location,Receiver,Receiving antenna,44.25; 902.0; 903.0; 908.0,44.25
+SM2501050910.txt,25.01.05,09.10,Observer,Receiving Location,Receiver,Receiving antenna,44.25; 9112.0; 912.0; 915.0; 918.0; 919.0,44.25
+SM2501050920.txt,25.01.05,09.20,Observer,Receiving Location,Receiver,Receiving antenna,44.25; 923.0; 926.0; 928.0; 929.0,44.25
+SM2501050930.txt,25.01.05,09.30,Observer,Receiving Location,Receiver,Receiving antenna,44.25; 931.0; 932.0; 933.0; 935.0; 936.0; 937.0; 938.0; 939.0; 940.0,44.25
+SM2501050940.txt,25.01.05,09.40,Observer,Receiving Location,Receiver,Receiving antenna,44.25; 942.0; 949.0,44.25
+SM2501050950.txt,25.01.05,09.50,Observer,Receiving Location,Receiver,Receiving antenna,44.25; 951.0; 952.0; 956.0; 957.0; 958.0,44.25
+SM2501051000.txt,25.01.05,10.00,Observer,Receiving Location,Receiver,Receiving antenna,44.25; 1003.0; 5.0; 1008.0; 1009.0,44.25
+SM2501051010.txt,25.01.05,10.10,Observer,Receiving Location,Receiver,Receiving antenna,44.25; 1012.0; 1013.0; 1014.0; 1015.0; 1016.0; 1019.0,44.25
+SM2501051020.txt,25.01.05,10.20,Observer,Receiving Location,Receiver,Receiving antenna,44.25; 21.0; 1022.0; 1023.0; 1024.0; 1025.0; 1028.0; 1030.0,44.25
+SM2501051030.txt,25.01.05,10.30,Observer,Receiving Location,Receiver,Receiving antenna,44.25; 1032.0; 1033.0; 1035.0; 1036.0; 1038.0,44.25
+SM2501051040.txt,25.01.05,10.40,Observer,Receiving Location,Receiver,Receiving antenna,44.25; 1042.0; 1045.0; 10475.0; 1049.0; 10502.0,44.25
+SM2501051050.txt,25.01.05,10.50,Observer,Receiving Location,Receiver,Receiving antenna,44.25; 1052.0; 1053.0; 1055.0; 1056.0; 1057.0; 1058.0; 1059.0,44.25
+SM2501051100.txt,25.01.05,11.00,Observer,Receiving Location,Receiver,Receiving antenna,44.25; 1102.0; 1103.0; 1104.0; 1105.0; 1106.0; 1107.0; 1440.0,44.25
+SM2501051110.txt,25.01.05,11.10,Observer,Receiving Location,Receiver,Receiving antenna,44.25; 1112.0; 1115.0; 1119.0; 11205.0,44.25
+SM2501051120.txt,25.01.05,11.20,Observer,Receiving Location,Receiver,Receiving antenna,44.25; 1122.0; 1125.0; 1126.0; 1128.0; 11302.0,44.25
+SM2501051130.txt,25.01.05,11.30,Observer,Receiving Location,Receiver,Receiving antenna,44.25; 11315.0; 1132.0; 1133.0; 1134.0; 1135.0; 1139.0; 1140.0,44.25
+SM2501051140.txt,25.01.05,11.40,Observer,Receiving Location,Receiver,Receiving antenna,4447.0; 1442.0; 1145.0; 1148.0,77.259.775
+SM2501051150.txt,25.01.05,11.50,Observer,Receiving Location,Receiver,Receiving antenna,44.25; 1152.0; 1153.0; 1155.0; 1156.0; 1158.0,44.25
+SM2501051200.txt,25.01.05,12.00,Observer,Receiving Location,Receiver,Receiving antenna,44.25; 1203.0; 205.0; 12065.0; 1208.0,44.25
+SM2501051210.txt,25.01.05,12.10,Observer,Receiving Location,Receiver,Receiving antenna,1211.0; 1212.0; 1214.0; 1218.0; 1219.0; 12202.0,77.259.775
+SM2501051220.txt,25.01.05,12.20,Observer,Receiving Location,Receiver,Receiving antenna,44.25; 221.0; 1222.0; 1223.0; 1224.0; 1225.0; 1226.0; 1227.0; 1228.0; 1229.0,44.25
+SM2501051230.txt,25.01.05,12.30,Observer,Receiving Location,Receiver,Receiving antenna,231.0; 1232.0; 1233.0; 1234.0; 1235.0; 4740.0,77.259.775
+SM2501051240.txt,25.01.05,12.40,Observer,Receiving Location,Receiver,Receiving antenna,1242.0; 1243.0; 1244.0; 1245.0; 1246.0,77.259.775
+SM2501051250.txt,25.01.05,12.50,Observer,Receiving Location,Receiver,Receiving antenna,44.25; 1253.0; 1254.0; 1255.0; 1257.0; 1258.0; 1259.0,44.25
+SM2501051300.txt,25.01.05,13.00,Observer,Receiving Location,Receiver,Receiving antenna,44.25; 301.0; 1302.0; 1303.0; 1305.0; 1308.0,44.25
+SM2501051310.txt,25.01.05,13.10,Observer,Receiving Location,Receiver,Receiving antenna,44.25; 1312.0; 1313.0; 1315.0; 1317.0; 1318.0; 1319.0,44.25
+SM2501051320.txt,25.01.05,13.20,Observer,Receiving Location,Receiver,Receiving antenna,1322.0; 1323.0; 1327.0,77.259.775
+SM2501051330.txt,25.01.05,13.30,Observer,Receiving Location,Receiver,Receiving antenna,44.25; 332.0; 1333.0; 1334.0; 1335.0; 1337.0; 1338.0,44.25
+SM2501051340.txt,25.01.05,13.40,Observer,Receiving Location,Receiver,Receiving antenna,44.25; 1343.0; 1344.0; 1345.0; 1346.0; 1349.0,44.25
+SM2501051350.txt,25.01.05,13.50,Observer,Receiving Location,Receiver,Receiving antenna,44.25; 13515.0; 1352.0; 1353.0; 1354.0; 1355.0; 1356.0; 1358.0; 1359.0,44.25
+SM2501051400.txt,25.01.05,14.00,Observer,Receiving Location,Receiver,Receiving antenna,44.25; 403.0; 1405.0; 1407.0; 1408.0; 409.0,44.25
+SM2501051410.txt,25.01.05,14.10,Observer,Receiving Location,Receiver,Receiving antenna,1412.0; 1413.0; 1415.0; 1416.0; 1419.0,77.259.775
+SM2501051420.txt,25.01.05,14.20,Observer,Receiving Location,Receiver,Receiving antenna,44.25; 1422.0; 1423.0; 1425.0; 1426.0; 1427.0; 4470.0,44.25
+SM2501051430.txt,25.01.05,14.30,Observer,Receiving Location,Receiver,Receiving antenna,44.25; 1432.0; 1433.0; 1434.0; 1435.0,44.25
+SM2501051440.txt,25.01.05,14.40,Observer,Receiving Location,Receiver,Receiving antenna,44.25; 1442.0; 1447.0,44.25
+SM2501051450.txt,25.01.05,14.50,Observer,Receiving Location,Receiver,Receiving antenna,44.25; 1452.0; 407.0; 1404.0; 1455.0; 1457.0; 1459.0; 15002.0,44.25
+SM2501051500.txt,25.01.05,15.00,Observer,Receiving Location,Receiver,Receiving antenna,44.25; 1503.0; 15042.0; 15052.0; 508.0,44.25
+SM2501051510.txt,25.01.05,15.10,Observer,Receiving Location,Receiver,Receiving antenna,44.25; 1512.0; 1513.0; 1514.0; 1515.0; 1519.0,44.25
+SM2501051520.txt,25.01.05,15.20,Observer,Receiving Location,Receiver,Receiving antenna,44.25; 1074.0; 1522.0; 1523.0; 1524.0; 1525.0; 527.0; 1528.0; 529.0,44.25
+SM2501051530.txt,25.01.05,15.30,Observer,Receiving Location,Receiver,Receiving antenna,44.25; 1532.0; 1533.0; 535.0; 1536.0,44.25
